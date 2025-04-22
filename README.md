@@ -18,8 +18,8 @@ A React application that generates Fibonacci sequences with user authentication.
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
-cd fibonacci-app
+git clone https://github.com/Karthik52p/k.git
+cd k
 ```
 
 2. Install dependencies:
@@ -38,14 +38,12 @@ The application will be available at `http://localhost:3000`
 
 This application is configured for GitHub Pages deployment. To deploy:
 
-1. Create a new repository on GitHub
-2. Push your code to the repository
-3. Go to repository settings
-4. Navigate to "Pages" section
-5. Select the main branch as the source
-6. Save the changes
+1. Go to repository settings
+2. Navigate to "Pages" section
+3. Select the main branch as the source
+4. Save the changes
 
-The application will be available at `https://<your-username>.github.io/<repository-name>`
+The application will be available at `https://karthik52p.github.io/k`
 
 ## Technologies Used
 
